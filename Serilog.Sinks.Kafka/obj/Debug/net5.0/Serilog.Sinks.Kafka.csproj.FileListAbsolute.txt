@@ -1,0 +1,12 @@
+D:\Projects\Serilog.Sinks.Kafka\Serilog.Sinks.Kafka\bin\Debug\net5.0\Serilog.Sinks.Kafka.deps.json
+D:\Projects\Serilog.Sinks.Kafka\Serilog.Sinks.Kafka\bin\Debug\net5.0\Serilog.Sinks.Kafka.dll
+D:\Projects\Serilog.Sinks.Kafka\Serilog.Sinks.Kafka\bin\Debug\net5.0\ref\Serilog.Sinks.Kafka.dll
+D:\Projects\Serilog.Sinks.Kafka\Serilog.Sinks.Kafka\bin\Debug\net5.0\Serilog.Sinks.Kafka.pdb
+D:\Projects\Serilog.Sinks.Kafka\Serilog.Sinks.Kafka\obj\Debug\net5.0\Serilog.Sinks.Kafka.csproj.AssemblyReference.cache
+D:\Projects\Serilog.Sinks.Kafka\Serilog.Sinks.Kafka\obj\Debug\net5.0\Serilog.Sinks.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Serilog.Sinks.Kafka\Serilog.Sinks.Kafka\obj\Debug\net5.0\Serilog.Sinks.Kafka.AssemblyInfoInputs.cache
+D:\Projects\Serilog.Sinks.Kafka\Serilog.Sinks.Kafka\obj\Debug\net5.0\Serilog.Sinks.Kafka.AssemblyInfo.cs
+D:\Projects\Serilog.Sinks.Kafka\Serilog.Sinks.Kafka\obj\Debug\net5.0\Serilog.Sinks.Kafka.csproj.CoreCompileInputs.cache
+D:\Projects\Serilog.Sinks.Kafka\Serilog.Sinks.Kafka\obj\Debug\net5.0\Serilog.Sinks.Kafka.dll
+D:\Projects\Serilog.Sinks.Kafka\Serilog.Sinks.Kafka\obj\Debug\net5.0\ref\Serilog.Sinks.Kafka.dll
+D:\Projects\Serilog.Sinks.Kafka\Serilog.Sinks.Kafka\obj\Debug\net5.0\Serilog.Sinks.Kafka.pdb
